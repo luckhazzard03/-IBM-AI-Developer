@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "26b5980c97ba8113",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4d07c0666188204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da4628038846f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTRODUCCIÓN A SOFTWARE/Introducción al desarrollo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción al desarrollo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44c8297f35e32dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1950910a30121df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91647ef2d48f8417",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "5d418ee57c17aa1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7f175ad11f636b7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1688bd2d614b82bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c8f25563b29e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75884351a0cf77dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "7d6fda4a4c457d50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "692b1b937478e6e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "887cb23bcf52ac32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2da4628038846f96",
+  "lastOpenFiles": [
+    "INTRODUCCIÓN A SOFTWARE/SDLC- EL CICLO DE VIDA DEL DESARROLO DE SOFTWARE.md",
+    "INTRODUCCIÓN A SOFTWARE/EL PROCESO DE CREACIÓN DE SOFWARE.md",
+    "INTRODUCCIÓN A SOFTWARE/Introducción al desarrollo.md",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025160615.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025161636.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025161626.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025161616.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025160645.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025160633.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025074916.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025155246.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025154958.png",
+    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241025154923.png",
+    "Proceso de creación de software y las funciones asociadas",
+    "Bienvenido.md",
+    "INTRODUCCIÓN A SOFTWARE/img soft",
+    "INTRODUCCIÓN A SOFTWARE"
+  ]
+}
