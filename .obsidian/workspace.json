@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a7883b015f670b",
+        "id": "d990b5085fe13a29",
         "type": "tabs",
         "children": [
           {
-            "id": "e123fdcfe628c3b0",
+            "id": "91caf3c48f0ffb52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTELIGENCIA_ARTIFICIAL_IA/1. Presentación de la IA.md",
+                "file": "INTELIGENCIA_ARTIFICIAL_IA/9. Problemas de la IA éticas y uso responsable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Presentación de la IA"
+              "title": "9. Problemas de la IA éticas y uso responsable"
             }
           }
         ]
@@ -162,8 +162,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91647ef2d48f8417",
+  "active": "91caf3c48f0ffb52",
   "lastOpenFiles": [
+    "INTELIGENCIA_ARTIFICIAL_IA/certificado IA.pdf",
+    "INTELIGENCIA_ARTIFICIAL_IA/9. Problemas de la IA éticas y uso responsable.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/certificado IA.pdf.opdownload",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125120627.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125120711.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125120700.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125120649.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125120638.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/8.Transformar su trabajo mediante herramientas de IA.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125114539.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125115010.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125114955.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125114854.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA/Pasted image 20241125114707.png",
+    "INTELIGENCIA_ARTIFICIAL_IA/7. Dominios de IA Para industrias.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/6. Ámbitos de la IA.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/5. CONCEPTOS FUNDAMENTALES DE LA IA.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/4. IMPACTO Y APLICACIONES DE LA IA.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/3. Evolución de la IA tradicional frente a IA generativa.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/2.Inteligencia artificial frente a inteligencia aumentada.md",
+    "INTRODUCCIÓN A SOFTWARE/1. Introducción al desarrollo.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/1. Presentación de la IA.md",
+    "INTELIGENCIA_ARTIFICIAL_IA/img IA",
     "INTELIGENCIA_ARTIFICIAL_IA",
     "IA",
     "ARTIFICIAL",
@@ -171,21 +194,7 @@
     "LA",
     "A",
     "INTRODUCCIÓN",
-    "INTELIGENCIA_ARTIFICIAL_IA/1. Presentación de la IA.md",
-    "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL (IA)",
-    "INTRODUCCIÓN A SOFTWARE/certificado Engineering.pdf",
-    "INTRODUCCIÓN A SOFTWARE/skills ing software.pdf",
     "INTRODUCCIÓN A SOFTWARE/11. Acerca de los Ingenieros de software.md",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113852.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113932.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113922.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113911.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113902.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113214.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113232.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120113223.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120112054.png",
-    "INTRODUCCIÓN A SOFTWARE/img soft/Pasted image 20241120112120.png",
     "INTRODUCCIÓN A SOFTWARE/10. Patrones de Arquitectura de software y topologías de despliegue.md",
     "INTRODUCCIÓN A SOFTWARE/9. Arquitectura y diseño de Software.md",
     "INTRODUCCIÓN A SOFTWARE/8. Lógica y conceptos de programación.md",
@@ -195,8 +204,6 @@
     "INTRODUCCIÓN A SOFTWARE/4. HERRAMIENTAS EN EL DESARROLLO DE SOFTWARE.md",
     "INTRODUCCIÓN A SOFTWARE/3. SDLC- EL CICLO DE VIDA DEL DESARROLO DE SOFTWARE.md",
     "INTRODUCCIÓN A SOFTWARE/2. EL PROCESO DE CREACIÓN DE SOFWARE.md",
-    "INTRODUCCIÓN A SOFTWARE/1. Introducción al desarrollo.md",
-    "Proceso de creación de software y las funciones asociadas",
     "Bienvenido.md"
   ]
 }
