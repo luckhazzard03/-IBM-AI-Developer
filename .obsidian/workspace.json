@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd55e616a1e00365",
+        "id": "8f547711e96c4750",
         "type": "tabs",
         "children": [
           {
-            "id": "dc4d8077bfedd873",
+            "id": "3e7326468f0a8402",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162941.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241129162941"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -160,19 +158,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91647ef2d48f8417",
+  "active": "3e7326468f0a8402",
   "lastOpenFiles": [
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162859.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162834.png",
+    "Python para ciencia de datos, IA y desarrollo/Certificado Data Science.pdf",
+    "Python para ciencia de datos, IA y desarrollo/Python Cheat Sheet - The Basics Coursera.pdf",
+    "Python para ciencia de datos, IA y desarrollo/Certificado Data Science.pdf.opdownload",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203095941.png",
+    "Python para ciencia de datos, IA y desarrollo/Python Cheat Sheet - The Basics Coursera.pdf.opdownload",
+    "Python para ciencia de datos, IA y desarrollo/19.  HTML para Web Scraping.md",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104228.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104219.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104211.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104202.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104153.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104112.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104055.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104047.png",
+    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104041.png",
+    "Python para ciencia de datos, IA y desarrollo/18. APIS.md",
+    "Python para ciencia de datos, IA y desarrollo/16. PANDAS.md",
+    "Python para ciencia de datos, IA y desarrollo/15. Lectura y Escritura de Archivos con OPEN.md",
+    "Python para ciencia de datos, IA y desarrollo/17. Numpy unidimensional.md",
+    "Python para ciencia de datos, IA y desarrollo/1. Introducción a Python.md",
     "Python para ciencia de datos, IA y desarrollo/14. evaluación.md",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129163028.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129163020.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129163009.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162950.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162941.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162930.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162912.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241129162844.png",
     "Python para ciencia de datos, IA y desarrollo/13. Objetos y Clases.md",
     "Python para ciencia de datos, IA y desarrollo/12. MANEJO DE EXCEPCIONES.md",
     "Python para ciencia de datos, IA y desarrollo/11. Functions.md",
@@ -186,7 +194,6 @@
     "Python para ciencia de datos, IA y desarrollo/3. Expresiones y variables.md",
     "Python para ciencia de datos, IA y desarrollo/2. Tipos.md",
     "Python para ciencia de datos, IA y desarrollo/img ciencia de datos",
-    "Python para ciencia de datos, IA y desarrollo/1. Introducción a Python.md",
     "Python para ciencia de datos, IA y desarrollo",
     "Conceptos básicos de ingeniería de instrucciones/Coursera TM5HD081KIWN.pdf",
     "Conceptos básicos de ingeniería de instrucciones/6. Técnicas de texto a imagen.md",
@@ -196,16 +203,8 @@
     "Conceptos básicos de ingeniería de instrucciones/2. ¿Qué es un Prompt.md",
     "Conceptos básicos de ingeniería de instrucciones/1. IA Generativa Conceptos de ingeniería de instrucciones.md",
     "Conceptos básicos de ingeniería de instrucciones/img ing de instrucciones",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/3. IA GENERATIVA APLICACIONES Y HERRAMIENTAS.md",
     "Conceptos básicos de ingeniería de instrucciones",
     "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/Generative IA.pdf",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/Generative IA.pdf.opdownload",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/2. LA IA generativa y sus capacidades.md",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/1. Panorama de las Specializations.md",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/img IA GENERATIVA",
-    "INTELIGENCIA_ARTIFICIAL_IA/9. Problemas de la IA éticas y uso responsable.md",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES",
-    "INTELIGENCIA_ARTIFICIAL_IA/certificado IA.pdf",
-    "INTELIGENCIA_ARTIFICIAL_IA/8.Transformar su trabajo mediante herramientas de IA.md"
+    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/Generative IA.pdf.opdownload"
   ]
 }
