@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f547711e96c4750",
+        "id": "47cff5ca557c2f03",
         "type": "tabs",
         "children": [
           {
-            "id": "3e7326468f0a8402",
+            "id": "637acf28dddce813",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,23 +158,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3e7326468f0a8402",
+  "active": "91647ef2d48f8417",
   "lastOpenFiles": [
-    "Python para ciencia de datos, IA y desarrollo/Certificado Data Science.pdf",
+    "Desarrollo de aplicaciones de IA con Python y Flask/Developing AI Applications flask.pdf",
+    "Desarrollo de aplicaciones de IA con Python y Flask/Developing AI Applications flask.pdf.opdownload",
+    "Desarrollo de aplicaciones de IA con Python y Flask/2. Despliegue de aplicaciones Web usando flask.md",
     "Python para ciencia de datos, IA y desarrollo/Python Cheat Sheet - The Basics Coursera.pdf",
-    "Python para ciencia de datos, IA y desarrollo/Certificado Data Science.pdf.opdownload",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203095941.png",
-    "Python para ciencia de datos, IA y desarrollo/Python Cheat Sheet - The Basics Coursera.pdf.opdownload",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241204163950.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241204163941.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241204163930.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241204162530.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241206101027.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241206101015.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241206100958.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241206100947.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241206100935.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask/Pasted image 20241206100923.png",
+    "Desarrollo de aplicaciones de IA con Python y Flask/1. Prácticas de codificación en Python y conceptos de empaquetado.md",
+    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask",
+    "Desarrollo de aplicaciones de IA con Python y Flask",
     "Python para ciencia de datos, IA y desarrollo/19.  HTML para Web Scraping.md",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104228.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104219.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104211.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104202.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104153.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104112.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104055.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104047.png",
-    "Python para ciencia de datos, IA y desarrollo/img ciencia de datos/Pasted image 20241203104041.png",
+    "Python para ciencia de datos, IA y desarrollo/Certificado Data Science.pdf",
+    "Python para ciencia de datos, IA y desarrollo/Certificado Data Science.pdf.opdownload",
+    "Python para ciencia de datos, IA y desarrollo/Python Cheat Sheet - The Basics Coursera.pdf.opdownload",
     "Python para ciencia de datos, IA y desarrollo/18. APIS.md",
     "Python para ciencia de datos, IA y desarrollo/16. PANDAS.md",
     "Python para ciencia de datos, IA y desarrollo/15. Lectura y Escritura de Archivos con OPEN.md",
@@ -199,12 +205,6 @@
     "Conceptos básicos de ingeniería de instrucciones/6. Técnicas de texto a imagen.md",
     "Conceptos básicos de ingeniería de instrucciones/5. Prompt Hacks.md",
     "Conceptos básicos de ingeniería de instrucciones/4. Técnicas y enfoques para escribir prompts.md",
-    "Conceptos básicos de ingeniería de instrucciones/3. Herramientas comunes de ingeniería Prompt.md",
-    "Conceptos básicos de ingeniería de instrucciones/2. ¿Qué es un Prompt.md",
-    "Conceptos básicos de ingeniería de instrucciones/1. IA Generativa Conceptos de ingeniería de instrucciones.md",
-    "Conceptos básicos de ingeniería de instrucciones/img ing de instrucciones",
-    "Conceptos básicos de ingeniería de instrucciones",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/Generative IA.pdf",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/Generative IA.pdf.opdownload"
+    "Conceptos básicos de ingeniería de instrucciones/3. Herramientas comunes de ingeniería Prompt.md"
   ]
 }
