@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7e57a7a07c92d41",
+        "id": "3b2225812f58b72a",
         "type": "tabs",
         "children": [
           {
-            "id": "3f1c08dbeda85f36",
+            "id": "150c1d10924294cf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,24 +158,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91647ef2d48f8417",
+  "active": "150c1d10924294cf",
   "lastOpenFiles": [
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101207.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/certificado Generative AI ELEVATE.pdf",
+    "IA Generativa eleve su carrera en el desarrollo de software/4. software para la IA generativa.md",
+    "IA Generativa eleve su carrera en el desarrollo de software/certificado Generative AI ELEVATE.pdf.opdownload",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160508.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160637.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160623.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160615.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160605.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160555.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160546.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160535.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160526.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160517.png",
+    "IA Generativa eleve su carrera en el desarrollo de software/3.Introducción a CI CD utilizando IA.md",
+    "IA Generativa eleve su carrera en el desarrollo de software/2. Aprovechamiento de la IA para la ayuda técnica y mejores prácticas sobre patrones de diseño y arquitectura.md",
+    "IA Generativa eleve su carrera en el desarrollo de software/1.Aprovechar la IA generativa en el ciclo de vida del desarrollo de software.md",
+    "IA Generativa eleve su carrera en el desarrollo de software/img",
+    "IA Generativa eleve su carrera en el desarrollo de software",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/8. Crear una aplicación para  resumir las reuniones.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf.opdownload",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102145.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102138.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102129.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102120.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101323.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101313.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101303.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Resuma sus Datos privados con IA generativa y RAG",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/2. Interfaz de Gradio.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/Pasted image 20241212172605.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/5. Juntarlo todo.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/Pasted image 20241212172633.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/4. Integrando LLM Usando Llama 3 en WatsonX como LLM.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/3.Crear una aplicación de transcripción de audio.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/0.1 Compañero de Reuniones de Negocios AI STT.md",
@@ -196,14 +204,6 @@
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/3. Resumen del proyecto Subtitulado de imágenes con IA generativa.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/2. Modelos de cimentación.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/1. Modelos Generativos de IA.md",
-    "IA GENERATIVA INTRODUCCIÓN Y APLICACIONES/1. Panorama de las Specializations.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON",
-    "Desarrollo de aplicaciones de IA con Python y Flask/2. Despliegue de aplicaciones Web usando flask.md",
-    "Desarrollo de aplicaciones de IA con Python y Flask/1. Prácticas de codificación en Python y conceptos de empaquetado.md",
-    "Desarrollo de aplicaciones de IA con Python y Flask/Developing AI Applications flask.pdf",
-    "Desarrollo de aplicaciones de IA con Python y Flask/Developing AI Applications flask.pdf.opdownload",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Python para ciencia de datos, IA y desarrollo/Python Cheat Sheet - The Basics Coursera.pdf",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Python para ciencia de datos, IA y desarrollo/19.  HTML para Web Scraping.md"
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON"
   ]
 }
