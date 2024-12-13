@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a0a16654ed79155",
+        "id": "a7e57a7a07c92d41",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc507108eae6ee7",
+            "id": "3f1c08dbeda85f36",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,24 +158,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dfc507108eae6ee7",
+  "active": "91647ef2d48f8417",
   "lastOpenFiles": [
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101207.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/8. Crear una aplicación para  resumir las reuniones.md",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf.opdownload",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102145.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102138.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102129.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213102120.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101323.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101313.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241213101303.png",
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Resuma sus Datos privados con IA generativa y RAG",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/2. Interfaz de Gradio.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/Pasted image 20241212172605.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/5. Juntarlo todo.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/Pasted image 20241212172633.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/Pasted image 20241212172623.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/Pasted image 20241212172614.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/4. Integrando LLM Usando Llama 3 en WatsonX como LLM.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/8. Crear una aplicación para  resumir las reuniones.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/3.Crear una aplicación de transcripción de audio.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/0.1 Compañero de Reuniones de Negocios AI STT.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241212165050.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/7. Crear un asistente de voz.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241212165121.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241212165112.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241212165102.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/5. Integrando la API de OpenAI.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/6. Integrando Watson Text-to-Speech.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/7. Uniendo todo creando puntos finales de API en Flask.md",
@@ -187,8 +192,6 @@
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/3.Ejecutando la aplicación.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/4. Integración de Watson Speech-to-Text.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241211163501.png",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON/Pasted image 20241212075443.png",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/4. BLIP de Hugging Face Transformers.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/3. Resumen del proyecto Subtitulado de imágenes con IA generativa.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/2. Modelos de cimentación.md",
@@ -201,9 +204,6 @@
     "Desarrollo de aplicaciones de IA con Python y Flask/Developing AI Applications flask.pdf",
     "Desarrollo de aplicaciones de IA con Python y Flask/Developing AI Applications flask.pdf.opdownload",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Python para ciencia de datos, IA y desarrollo/Python Cheat Sheet - The Basics Coursera.pdf",
-    "Desarrollo de aplicaciones de IA con Python y Flask/img ia Python y Flask",
-    "Desarrollo de aplicaciones de IA con Python y Flask",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Python para ciencia de datos, IA y desarrollo/19.  HTML para Web Scraping.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Python para ciencia de datos, IA y desarrollo/Certificado Data Science.pdf"
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Python para ciencia de datos, IA y desarrollo/19.  HTML para Web Scraping.md"
   ]
 }
