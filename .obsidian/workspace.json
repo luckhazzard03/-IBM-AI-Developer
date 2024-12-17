@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2225812f58b72a",
+        "id": "b99df3c79c73dac5",
         "type": "tabs",
         "children": [
           {
-            "id": "150c1d10924294cf",
+            "id": "e9a083965cd422d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "pdf",
+              "state": {
+                "file": "HTML CSS Y JavaScript/Certificado HTML CSS Js.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Certificado HTML CSS Js"
             }
           }
         ]
@@ -73,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 424.5
   },
   "right": {
     "id": "1688bd2d614b82bf",
@@ -158,21 +160,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "150c1d10924294cf",
+  "active": "e9a083965cd422d1",
   "lastOpenFiles": [
+    "HTML CSS Y JavaScript/3. Lenguaje JavaScript Visión general y sintaxis.md",
+    "HTML CSS Y JavaScript/Certificado HTML CSS Js.pdf",
+    "HTML CSS Y JavaScript/Certificado HTML CSS Js.pdf.opdownload",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075027.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075957.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075950.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075942.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075932.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075923.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075910.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075856.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075049.png",
+    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075036.png",
+    "HTML CSS Y JavaScript/2. Etiquetas HTML5 y elementos estructurales.md",
+    "Desarrollo de aplicaciones de IA con Python y Flask/2. Despliegue de aplicaciones Web usando flask.md",
+    "Desarrollo de aplicaciones de IA con Python y Flask/1. Prácticas de codificación en Python y conceptos de empaquetado.md",
+    "HTML CSS Y JavaScript/1. Características de HTML.md",
+    "HTML CSS Y JavaScript/jpeg",
+    "HTML CSS Y JavaScript",
     "IA Generativa eleve su carrera en el desarrollo de software/certificado Generative AI ELEVATE.pdf",
     "IA Generativa eleve su carrera en el desarrollo de software/4. software para la IA generativa.md",
     "IA Generativa eleve su carrera en el desarrollo de software/certificado Generative AI ELEVATE.pdf.opdownload",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160508.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160637.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160623.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160615.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160605.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160555.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160546.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160535.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160526.png",
-    "IA Generativa eleve su carrera en el desarrollo de software/img/Pasted image 20241213160517.png",
     "IA Generativa eleve su carrera en el desarrollo de software/3.Introducción a CI CD utilizando IA.md",
     "IA Generativa eleve su carrera en el desarrollo de software/2. Aprovechamiento de la IA para la ayuda técnica y mejores prácticas sobre patrones de diseño y arquitectura.md",
     "IA Generativa eleve su carrera en el desarrollo de software/1.Aprovechar la IA generativa en el ciclo de vida del desarrollo de software.md",
@@ -181,13 +192,11 @@
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/8. Crear una aplicación para  resumir las reuniones.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf.opdownload",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Resuma sus Datos privados con IA generativa y RAG",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/2. Interfaz de Gradio.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/5. Juntarlo todo.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/4. Integrando LLM Usando Llama 3 en WatsonX como LLM.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/3.Crear una aplicación de transcripción de audio.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/0.1 Compañero de Reuniones de Negocios AI STT.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/7. Crear un asistente de voz.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/5. Integrando la API de OpenAI.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/6. Integrando Watson Text-to-Speech.md",
@@ -197,13 +206,6 @@
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/6. Crear chatbot con LLM de código abierto.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/1.Comprendiendo la interfaz.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/2. Entendiendo el servidor.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/3.Ejecutando la aplicación.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/4. Integración de Watson Speech-to-Text.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/4. BLIP de Hugging Face Transformers.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/3. Resumen del proyecto Subtitulado de imágenes con IA generativa.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/2. Modelos de cimentación.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/1. Modelos Generativos de IA.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/IMG PYTHON"
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/3.Ejecutando la aplicación.md"
   ]
 }
