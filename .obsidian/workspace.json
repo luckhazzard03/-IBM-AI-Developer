@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b99df3c79c73dac5",
+        "id": "f18c75479e4a5d76",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a083965cd422d1",
+            "id": "8e9f35816db2c1f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "HTML CSS Y JavaScript/Certificado HTML CSS Js.pdf"
+                "file": "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165043.png"
               },
-              "icon": "lucide-file-text",
-              "title": "Certificado HTML CSS Js"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241218165043"
             }
           }
         ]
@@ -160,38 +160,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e9a083965cd422d1",
+  "active": "91647ef2d48f8417",
   "lastOpenFiles": [
-    "HTML CSS Y JavaScript/3. Lenguaje JavaScript Visión general y sintaxis.md",
+    "CIENCIA DE DATOS/3. APRENDIZAJE PROFUNDO Y APRENDIZAJE AUTOMÁTICO.md",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165322.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165316.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165309.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165301.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165254.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165057.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165051.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165043.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218164610.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218164618.png",
+    "CIENCIA DE DATOS/2. Grandes Datos y minería de Datos.md",
+    "CIENCIA DE DATOS/1. Qué es la ciencia de datos.md",
+    "CIENCIA DE DATOS/img ciencia de datos",
+    "CIENCIA DE DATOS",
+    "ENTREVISTAS/1. Guía profesional.md",
+    "ENTREVISTAS/3. Resolver Desafíos de Programación – Un Marco de Trabajo.md",
+    "IA Generativa eleve su carrera en el desarrollo de software/certificado Generative AI ELEVATE.pdf",
+    "ENTREVISTAS/certificado preparación.pdf",
+    "ENTREVISTAS/certificado preparación.pdf.opdownload",
+    "ENTREVISTAS/2. Desafío de Programación Nivel 2 Problema Intermedio.md",
+    "HTML CSS Y JavaScript/OperaGXSetup.exe",
+    "HTML CSS Y JavaScript/OperaGXSetup.exe.opdownload",
+    "ENTREVISTAS/IMG ENTREVISTAS",
+    "ENTREVISTAS",
     "HTML CSS Y JavaScript/Certificado HTML CSS Js.pdf",
-    "HTML CSS Y JavaScript/Certificado HTML CSS Js.pdf.opdownload",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075027.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075957.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075950.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075942.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075932.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075923.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075910.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075856.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075049.png",
-    "HTML CSS Y JavaScript/jpeg/Pasted image 20241217075036.png",
+    "HTML CSS Y JavaScript/3. Lenguaje JavaScript Visión general y sintaxis.md",
     "HTML CSS Y JavaScript/2. Etiquetas HTML5 y elementos estructurales.md",
     "Desarrollo de aplicaciones de IA con Python y Flask/2. Despliegue de aplicaciones Web usando flask.md",
     "Desarrollo de aplicaciones de IA con Python y Flask/1. Prácticas de codificación en Python y conceptos de empaquetado.md",
     "HTML CSS Y JavaScript/1. Características de HTML.md",
-    "HTML CSS Y JavaScript/jpeg",
-    "HTML CSS Y JavaScript",
-    "IA Generativa eleve su carrera en el desarrollo de software/certificado Generative AI ELEVATE.pdf",
     "IA Generativa eleve su carrera en el desarrollo de software/4. software para la IA generativa.md",
-    "IA Generativa eleve su carrera en el desarrollo de software/certificado Generative AI ELEVATE.pdf.opdownload",
     "IA Generativa eleve su carrera en el desarrollo de software/3.Introducción a CI CD utilizando IA.md",
     "IA Generativa eleve su carrera en el desarrollo de software/2. Aprovechamiento de la IA para la ayuda técnica y mejores prácticas sobre patrones de diseño y arquitectura.md",
     "IA Generativa eleve su carrera en el desarrollo de software/1.Aprovechar la IA generativa en el ciclo de vida del desarrollo de software.md",
-    "IA Generativa eleve su carrera en el desarrollo de software/img",
-    "IA Generativa eleve su carrera en el desarrollo de software",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/8. Crear una aplicación para  resumir las reuniones.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Certificado AI generativa construcción de apps.pdf.opdownload",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/2. Interfaz de Gradio.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/5. Juntarlo todo.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/4. Integrando LLM Usando Llama 3 en WatsonX como LLM.md",
@@ -200,12 +206,6 @@
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/7. Crear un asistente de voz.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/5. Integrando la API de OpenAI.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/6. Integrando Watson Text-to-Speech.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/7. Uniendo todo creando puntos finales de API en Flask.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/8. Probando tu asistente personal.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/5. Introducción a Gradio.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/6. Crear chatbot con LLM de código abierto.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/1.Comprendiendo la interfaz.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/2. Entendiendo el servidor.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/3.Ejecutando la aplicación.md"
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/7. Uniendo todo creando puntos finales de API en Flask.md"
   ]
 }
