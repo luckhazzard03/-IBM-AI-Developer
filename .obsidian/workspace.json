@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f18c75479e4a5d76",
+        "id": "bcbf97ea2420b52e",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9f35816db2c1f4",
+            "id": "b668b48fb0977e2d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165043.png"
+                "file": "CIENCIA DE DATOS/6. Proyecto Python para la ciencia de datos}.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241218165043"
+              "icon": "lucide-file",
+              "title": "6. Proyecto Python para la ciencia de datos}"
+            }
+          },
+          {
+            "id": "f53c5b69c723e51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIENCIA DE DATOS/7. Visión general del proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Visión general del proyecto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,17 +179,23 @@
   },
   "active": "91647ef2d48f8417",
   "lastOpenFiles": [
+    "CIENCIA DE DATOS/7. Visión general del proyecto.md",
+    "CIENCIA DE DATOS/8. IBM CLOUD.md",
+    "CIENCIA DE DATOS/WebScraping_Review_Lab.ipynb",
+    "CIENCIA DE DATOS/6. Proyecto Python para la ciencia de datos}.md",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219110250.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111602.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111537.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111443.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111343.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111306.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111226.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111212.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111143.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111108.png",
+    "CIENCIA DE DATOS/5. Comprender los datos.md",
+    "CIENCIA DE DATOS/4. Dominios de la aplicación de la ciencia de Datos.md",
     "CIENCIA DE DATOS/3. APRENDIZAJE PROFUNDO Y APRENDIZAJE AUTOMÁTICO.md",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165322.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165316.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165309.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165301.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165254.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165057.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165051.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218165043.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218164610.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241218164618.png",
     "CIENCIA DE DATOS/2. Grandes Datos y minería de Datos.md",
     "CIENCIA DE DATOS/1. Qué es la ciencia de datos.md",
     "CIENCIA DE DATOS/img ciencia de datos",
@@ -187,7 +210,6 @@
     "HTML CSS Y JavaScript/OperaGXSetup.exe.opdownload",
     "ENTREVISTAS/IMG ENTREVISTAS",
     "ENTREVISTAS",
-    "HTML CSS Y JavaScript/Certificado HTML CSS Js.pdf",
     "HTML CSS Y JavaScript/3. Lenguaje JavaScript Visión general y sintaxis.md",
     "HTML CSS Y JavaScript/2. Etiquetas HTML5 y elementos estructurales.md",
     "Desarrollo de aplicaciones de IA con Python y Flask/2. Despliegue de aplicaciones Web usando flask.md",
@@ -202,10 +224,6 @@
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/5. Juntarlo todo.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/4. Integrando LLM Usando Llama 3 en WatsonX como LLM.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/3.Crear una aplicación de transcripción de audio.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/0.1 Compañero de Reuniones de Negocios AI STT.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/7. Crear un asistente de voz.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/5. Integrando la API de OpenAI.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/6. Integrando Watson Text-to-Speech.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Proyecto asistente de voz/7. Uniendo todo creando puntos finales de API en Flask.md"
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/0.1 Compañero de Reuniones de Negocios AI STT.md"
   ]
 }
