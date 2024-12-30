@@ -4,39 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "bcbf97ea2420b52e",
+        "id": "4c582c8064e70119",
         "type": "tabs",
         "children": [
           {
-            "id": "b668b48fb0977e2d",
+            "id": "92eb5648335b1c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIENCIA DE DATOS/6. Proyecto Python para la ciencia de datos}.md",
+                "file": "CIENCIA DE DATOS/9. ANÁLISIS DE DATOS CON PYTHON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Proyecto Python para la ciencia de datos}"
+              "title": "9. ANÁLISIS DE DATOS CON PYTHON"
             }
           },
           {
-            "id": "f53c5b69c723e51a",
+            "id": "109cfd07dd4d808a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227105625.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241227105625"
+            }
+          },
+          {
+            "id": "a1767877c25fb0bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIENCIA DE DATOS/7. Visión general del proyecto.md",
+                "file": "11. Análisis exploratorio de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Visión general del proyecto"
+              "title": "11. Análisis exploratorio de datos"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,22 +189,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91647ef2d48f8417",
+  "active": "a1767877c25fb0bf",
   "lastOpenFiles": [
+    "Pasted image 20241227141711.png",
+    "Pasted image 20241227141626.png",
+    "Pasted image 20241227121448.png",
+    "Pasted image 20241227121401.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227105625.png",
+    "11. Análisis exploratorio de datos.md",
+    "CIENCIA DE DATOS/10. Preprocesamiento de datos en Python.md",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227112525.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227112516.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227112507.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227105633.png",
+    "CIENCIA DE DATOS/9. ANÁLISIS DE DATOS CON PYTHON.md",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227094612.png",
+    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241227102655.png",
     "CIENCIA DE DATOS/7. Visión general del proyecto.md",
     "CIENCIA DE DATOS/8. IBM CLOUD.md",
     "CIENCIA DE DATOS/WebScraping_Review_Lab.ipynb",
     "CIENCIA DE DATOS/6. Proyecto Python para la ciencia de datos}.md",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219110250.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111602.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111537.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111443.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111343.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111306.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111226.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111212.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111143.png",
-    "CIENCIA DE DATOS/img ciencia de datos/Pasted image 20241219111108.png",
     "CIENCIA DE DATOS/5. Comprender los datos.md",
     "CIENCIA DE DATOS/4. Dominios de la aplicación de la ciencia de Datos.md",
     "CIENCIA DE DATOS/3. APRENDIZAJE PROFUNDO Y APRENDIZAJE AUTOMÁTICO.md",
@@ -220,10 +236,6 @@
     "IA Generativa eleve su carrera en el desarrollo de software/2. Aprovechamiento de la IA para la ayuda técnica y mejores prácticas sobre patrones de diseño y arquitectura.md",
     "IA Generativa eleve su carrera en el desarrollo de software/1.Aprovechar la IA generativa en el ciclo de vida del desarrollo de software.md",
     "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/8. Crear una aplicación para  resumir las reuniones.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/2. Interfaz de Gradio.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/5. Juntarlo todo.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/4. Integrando LLM Usando Llama 3 en WatsonX como LLM.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/3.Crear una aplicación de transcripción de audio.md",
-    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/0.1 Compañero de Reuniones de Negocios AI STT.md"
+    "CREACIÓN DE APLICACIONES IA GENERATIVA PYTHON/Compañero de Reuniones de Negocios AI STT/2. Interfaz de Gradio.md"
   ]
 }
